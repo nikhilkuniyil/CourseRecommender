@@ -1,0 +1,4104 @@
+{
+  "valid": {
+    "CSE 12": {
+      "prerequisites": [
+        "CSE 11"
+      ]
+    },
+    "CSE 20": {
+      "prerequisites": [
+        "CSE 11",
+        "CSE 6R",
+        "CSE 8A",
+        "ECE 15"
+      ]
+    },
+    "CSE 21": {
+      "corequisites": [
+        "CSE 20",
+        "MATH 154",
+        "MATH 184",
+        "CSE 21"
+      ]
+    },
+    "CSE 29": {
+      "prerequisites": [
+        "CSE 11",
+        "ECE 15",
+        "CSE 29"
+      ]
+    },
+    "CSE 30": {
+      "prerequisites": [
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    "CSE 100": {
+      "prerequisites": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 184",
+        "CSE 12",
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    "CSE 100R": {
+      "prerequisites": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 184",
+        "CSE 12",
+        "CSE 29",
+        "ECE 15"
+      ]
+    },
+    "CSE 101": {
+      "prerequisites": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 184",
+        "CSE 12",
+        "DSC 30"
+      ]
+    },
+    "CSE 103": {
+      "prerequisites": [
+        "MATH 20B",
+        "CSE 21",
+        "MATH 154",
+        "MATH 184"
+      ]
+    },
+    "CSE 105": {
+      "prerequisites": [
+        "CSE 12",
+        "CSE 20",
+        "MATH 109",
+        "CSE 21",
+        "MATH 100A",
+        "MATH 103A",
+        "MATH 154",
+        "MATH 184"
+      ]
+    },
+    "CSE 107": {
+      "prerequisites": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 184",
+        "CSE 101",
+        "CSE 105"
+      ]
+    },
+    "CSE 110": {
+      "prerequisites": [
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    "CSE 118": {
+      "prerequisites": [
+        "CSE 131",
+        "ECE 111"
+      ]
+    },
+    "CSE 120": {
+      "prerequisites": [
+        "CSE 29",
+        "CSE 30",
+        "CSE 100",
+        "CSE 100R",
+        "CSE 101"
+      ]
+    },
+    "CSE 127": {
+      "prerequisites": [
+        "CSE 21",
+        "MATH 154",
+        "MATH 184",
+        "CSE 120",
+        "ECE 158A"
+      ]
+    },
+    "CSE 130": {
+      "prerequisites": [
+        "CSE 12",
+        "CSE 100",
+        "CSE 100R",
+        "CSE 105"
+      ]
+    },
+    "CSE 131": {
+      "prerequisites": [
+        "CSE 30",
+        "CSE 100",
+        "CSE 100R",
+        "CSE 105",
+        "CSE 130"
+      ]
+    },
+    "CSE 132A": {
+      "prerequisites": [
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    "CSE 134B": {
+      "prerequisites": [
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    "CSE 140": {
+      "prerequisites": [
+        "CSE 30",
+        "ECE 30"
+      ]
+    },
+    "CSE 140L": {
+      "prerequisites": [
+        "CSE 30"
+      ]
+    },
+    "CSE 141": {
+      "prerequisites": [
+        "CSE 30",
+        "ECE 30",
+        "CSE 140"
+      ]
+    },
+    "CSE 141L": {
+      "prerequisites": [
+        "CSE 30",
+        "ECE 30",
+        "CSE 140"
+      ]
+    },
+    "CSE 142": {
+      "prerequisites": [
+        "CSE 30",
+        "ECE 30",
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    "CSE 150A": {
+      "prerequisites": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 29",
+        "DSC 80",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 20A",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    "CSE 150B": {
+      "prerequisites": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 29",
+        "DSC 80",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    "CSE 151A": {
+      "prerequisites": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 29",
+        "DSC 80",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    "CSE 152A": {
+      "recommended": [
+        "MATH 18",
+        "MATH 31AH",
+        "CSE 12",
+        "DSC 30",
+        "CSE 29",
+        "DSC 80"
+      ]
+    },
+    "CSE 158": {
+      "prerequisites": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 29",
+        "DSC 80",
+        "BENG 100",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183"
+      ]
+    },
+    "CSE 158R": {
+      "prerequisites": [
+        "CSE 12",
+        "DSC 40B",
+        "CSE 29",
+        "DSC 80",
+        "BENG 100",
+        "CSE 103",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183"
+      ]
+    },
+    "CSE 167": {
+      "prerequisites": [
+        "CSE 100",
+        "CSE 100R"
+      ]
+    },
+    "CSE 170": {
+      "prerequisites": [
+        "COGS 108",
+        "CSE 12",
+        "DSC 30",
+        "COGS 1",
+        "COGS 10",
+        "DSGN 1",
+        "ENG 100D"
+      ]
+    },
+    "CSE 194": {
+      "prerequisites": [
+        "CSE 12",
+        "ECE 35",
+        "HILD 7A",
+        "CAT 125",
+        "CAT 125R",
+        "MCWP 125",
+        "MCWP 50",
+        "MMW 121",
+        "SYN 2",
+        "WCWP 100",
+        "WCWP 10B"
+      ]
+    },
+    "CSE 206A": {
+      "corequisites": [
+        "CSE 202"
+      ]
+    },
+    "CSE 221": {
+      "prerequisites": [
+        "CSE 120"
+      ]
+    },
+    "CSE 227": {
+      "prerequisites": [
+        "CSE 221"
+      ]
+    },
+    "CSE 237C": {},
+    "CSE 250A": {
+      "prerequisites": [
+        "CSE 103"
+      ]
+    },
+    "ECE 17": {
+      "prerequisites": [
+        "CSE 11",
+        "ECE 15"
+      ]
+    },
+    "ECE 30": {
+      "prerequisites": [
+        "ECE 15"
+      ]
+    },
+    "ECE 35": {
+      "prerequisites": [
+        "MATH 18",
+        "PHYS 2A"
+      ]
+    },
+    "ECE 45": {
+      "prerequisites": [
+        "ECE 35"
+      ]
+    },
+    "ECE 65": {
+      "prerequisites": [
+        "ECE 35"
+      ]
+    },
+    "ECE 100": {
+      "prerequisites": [
+        "ECE 45",
+        "ECE 65"
+      ]
+    },
+    "ECE 101": {
+      "prerequisites": [
+        "ECE 45"
+      ]
+    },
+    "ECE 102": {
+      "prerequisites": [
+        "ECE 65",
+        "ECE 100"
+      ]
+    },
+    "ECE 103": {
+      "prerequisites": [
+        "ECE 65",
+        "PHYS 2D"
+      ]
+    },
+    "ECE 107": {
+      "prerequisites": [
+        "PHYS 2A",
+        "ECE 45"
+      ]
+    },
+    "ECE 108": {
+      "prerequisites": [
+        "ECE 25",
+        "CSE 140",
+        "ECE 30",
+        "CSE 30"
+      ]
+    },
+    "ECE 109": {
+      "prerequisites": [
+        "MATH 20A",
+        "MATH 20D",
+        "MATH 20C",
+        "MATH 31AH",
+        "MATH 18"
+      ]
+    },
+    "ECE 111": {
+      "prerequisites": [
+        "ECE 25",
+        "CSE 140"
+      ]
+    },
+    "ECE 121A": {
+      "prerequisites": [
+        "ECE 35"
+      ]
+    },
+    "ECE 135A": {
+      "prerequisites": [
+        "ECE 103"
+      ]
+    },
+    "ECE 143": {},
+    "ECE 148": {
+      "prerequisites": [
+        "ECE 15",
+        "ECE 35",
+        "MAE 2",
+        "MAE 3"
+      ]
+    },
+    "ECE 155": {
+      "prerequisites": [
+        "ECE 101",
+        "BENG 122A",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183"
+      ]
+    },
+    "ECE 158A": {
+      "prerequisites": [
+        "ECE 109"
+      ]
+    },
+    "ECE 161A": {
+      "prerequisites": [
+        "ECE 101"
+      ]
+    },
+    "ECE 164": {
+      "prerequisites": [
+        "ECE 102"
+      ]
+    },
+    "ECE 166": {
+      "prerequisites": [
+        "ECE 102"
+      ]
+    },
+    "ECE 171B": {},
+    "ECE 174": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "ECE 15",
+        "ECE 143"
+      ]
+    },
+    "ECE 182": {
+      "prerequisites": [
+        "ECE 103"
+      ]
+    },
+    "ECE 203": {
+      "prerequisites": [
+        "ECE 164"
+      ]
+    },
+    "ECE 222A": {
+      "prerequisites": [
+        "ECE 107"
+      ]
+    },
+    "ECE 230A": {
+      "prerequisites": [
+        "ECE 135A"
+      ]
+    },
+    "ECE 240A": {
+      "prerequisites": [
+        "ECE 107",
+        "ECE 182"
+      ]
+    },
+    "ECE 250": {},
+    "ECE 253": {
+      "prerequisites": [
+        "ECE 109",
+        "ECE 161A"
+      ]
+    },
+    "ECE 255A": {
+      "prerequisites": [
+        "ECE 155"
+      ]
+    },
+    "ECE 257A": {
+      "prerequisites": [
+        "ECE 158A"
+      ]
+    },
+    "ECE 258A": {
+      "prerequisites": [
+        "ECE 250",
+        "ECE 155"
+      ]
+    },
+    "ECE 260A": {
+      "prerequisites": [
+        "ECE 108"
+      ]
+    },
+    "ECE 264C": {},
+    "ECE 265C": {
+      "prerequisites": [
+        "ECE 166"
+      ]
+    },
+    "ECE 271A": {
+      "prerequisites": [
+        "ECE 109"
+      ]
+    },
+    "ECE 276C": {},
+    "DSC 20": {
+      "prerequisites": [
+        "DSC 10"
+      ]
+    },
+    "DSC 30": {
+      "prerequisites": [
+        "DSC 20"
+      ]
+    },
+    "DSC 40A": {
+      "prerequisites": [
+        "DSC 10",
+        "MATH 20C",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    "DSC 40B": {
+      "prerequisites": [
+        "DSC 30",
+        "DSC 40A"
+      ]
+    },
+    "DSC 80": {
+      "prerequisites": [
+        "DSC 30",
+        "DSC 40A"
+      ]
+    },
+    "DSC 95": {
+      "prerequisites": [
+        "DSC 10"
+      ]
+    },
+    "DSC 100": {
+      "prerequisites": [
+        "DSC 40B",
+        "DSC 80"
+      ]
+    },
+    "DSC 102": {
+      "prerequisites": [
+        "DSC 100"
+      ]
+    },
+    "DSC 106": {
+      "prerequisites": [
+        "DSC 80"
+      ]
+    },
+    "DSC 140A": {
+      "prerequisites": [
+        "DSC 80",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183"
+      ]
+    },
+    "DSC 161": {
+      "prerequisites": [
+        "ECON 5",
+        "POLI 30D",
+        "POLI 5D"
+      ]
+    },
+    "DSC 180A": {
+      "prerequisites": [
+        "DSC 102",
+        "CSE 151A",
+        "CSE 158",
+        "CSE 158R",
+        "DSC 106"
+      ]
+    },
+    "DSC 204A": {},
+    "DSC 209R": {},
+    "DSC 241": {
+      "prerequisites": [
+        "DSC 210",
+        "DSC 212"
+      ]
+    },
+    "DSC 256R": {
+      "prerequisites": [
+        "DSC 215R"
+      ]
+    },
+    "DSC 257R": {},
+    "DSC 261": {
+      "prerequisites": [
+        "DSC 210"
+      ]
+    },
+    "MATH 3C": {
+      "prerequisites": [
+        "MATH 3B"
+      ]
+    },
+    "MATH 4C": {
+      "prerequisites": [
+        "MATH 3C"
+      ]
+    },
+    "MATH 10A": {
+      "prerequisites": [
+        "MATH 3C",
+        "MATH 4C"
+      ]
+    },
+    "MATH 10B": {
+      "prerequisites": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    "MATH 10C": {
+      "prerequisites": [
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    "MATH 11": {
+      "prerequisites": [
+        "MATH 10B",
+        "MATH 20B"
+      ]
+    },
+    "MATH 18": {
+      "prerequisites": [
+        "MATH 4C",
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    "MATH 20A": {
+      "prerequisites": [
+        "MATH 4C",
+        "MATH 10A"
+      ]
+    },
+    "MATH 20B": {
+      "prerequisites": [
+        "MATH 20A",
+        "MATH 10B",
+        "MATH 10C"
+      ]
+    },
+    "MATH 20C": {
+      "prerequisites": [
+        "MATH 20B"
+      ]
+    },
+    "MATH 20D": {
+      "prerequisites": [
+        "MATH 20C",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    "MATH 20E": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    "MATH 96": {
+      "prerequisites": [
+        "MATH 20A"
+      ]
+    },
+    "MATH 100A": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 102": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    "MATH 103A": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 105": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 109": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    "MATH 120A": {
+      "prerequisites": [
+        "MATH 20E"
+      ]
+    },
+    "MATH 140A": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 142A": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 153": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 154": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 170A": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C",
+        "CSE 20",
+        "MATH 109"
+      ]
+    },
+    "MATH 173A": {
+      "prerequisites": [
+        "MATH 20C",
+        "MATH 18"
+      ]
+    },
+    "MATH 174": {
+      "prerequisites": [
+        "MATH 31AH"
+      ]
+    },
+    "MATH 180A": {},
+    "MATH 180C": {},
+    "MATH 181B": {},
+    "MATH 183": {
+      "prerequisites": [
+        "MATH 20C"
+      ]
+    },
+    "MATH 184": {
+      "prerequisites": [
+        "MATH 109"
+      ]
+    },
+    "MATH 187A": {
+      "prerequisites": [
+        "MATH 10A",
+        "MATH 20A"
+      ]
+    },
+    "MATH 190A": {
+      "prerequisites": [
+        "MATH 140A",
+        "MATH 142A"
+      ]
+    },
+    "MATH 201A": {},
+    "MATH 203A": {},
+    "MATH 204A": {},
+    "MATH 210A": {
+      "prerequisites": [
+        "MATH 20D"
+      ]
+    },
+    "MATH 220A": {
+      "prerequisites": [
+        "MATH 140A"
+      ]
+    },
+    "MATH 241A": {},
+    "MATH 242": {},
+    "MATH 251A": {},
+    "MATH 274": {
+      "prerequisites": [
+        "MATH 20D",
+        "MATH 31AH"
+      ]
+    },
+    "MATH 280A": {
+      "recommended": [
+        "MATH 140A"
+      ]
+    },
+    "MATH 287A": {
+      "prerequisites": [
+        "MATH 282A"
+      ]
+    },
+    "MATH 290A": {
+      "prerequisites": [
+        "MATH 100A",
+        "MATH 140A"
+      ]
+    },
+    "PHYS 1A": {
+      "prerequisites": [
+        "PHYS 1A",
+        "MATH 10B"
+      ]
+    },
+    "PHYS 1AL": {
+      "prerequisites": [
+        "PHYS 1A",
+        "MATH 10B"
+      ]
+    },
+    "PHYS 1B": {
+      "prerequisites": [
+        "PHYS 1A",
+        "MATH 10B"
+      ]
+    },
+    "PHYS 1BL": {
+      "prerequisites": [
+        "MATH 10A"
+      ],
+      "corequisites": [
+        "MATH 20B"
+      ]
+    },
+    "PHYS 1C": {
+      "prerequisites": [
+        "MATH 10A"
+      ],
+      "corequisites": [
+        "MATH 20B"
+      ]
+    },
+    "PHYS 1CL": {
+      "prerequisites": [
+        "MATH 10A"
+      ],
+      "corequisites": [
+        "MATH 20B"
+      ]
+    },
+    "PHYS 2A": {
+      "prerequisites": [
+        "MATH 10A"
+      ],
+      "corequisites": [
+        "MATH 20B"
+      ]
+    },
+    "PHYS 2B": {
+      "prerequisites": [
+        "PHYS 2A"
+      ],
+      "corequisites": [
+        "PHYS 2B"
+      ]
+    },
+    "PHYS 2C": {
+      "prerequisites": [
+        "PHYS 2A"
+      ],
+      "corequisites": [
+        "PHYS 2C"
+      ]
+    },
+    "PHYS 2CL": {
+      "prerequisites": [
+        "PHYS 2A"
+      ],
+      "corequisites": [
+        "PHYS 2C"
+      ]
+    },
+    "PHYS 2D": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 20D"
+      ],
+      "corequisites": [
+        "MATH 20E"
+      ]
+    },
+    "PHYS 2DL": {
+      "corequisites": [
+        "PHYS 2D"
+      ]
+    },
+    "PHYS 4C": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 20A"
+      ],
+      "corequisites": [
+        "MATH 20E"
+      ]
+    },
+    "PHYS 100A": {
+      "prerequisites": [
+        "MATH 20A"
+      ]
+    },
+    "PHYS 110A": {
+      "prerequisites": [
+        "MATH 20A"
+      ]
+    },
+    "PHYS 116": {},
+    "PHYS 130B": {},
+    "PHYS 133": {
+      "prerequisites": [
+        "PHYS 2CL"
+      ]
+    },
+    "PHYS 136": {
+      "recommended": [
+        "PHYS 130B"
+      ]
+    },
+    "PHYS 139": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 20A"
+      ]
+    },
+    "PHYS 140A": {},
+    "PHYS 161": {},
+    "PHYS 175": {
+      "prerequisites": [
+        "PHYS 100A"
+      ],
+      "corequisites": [
+        "PHYS 140A"
+      ]
+    },
+    "PHYS 191": {
+      "prerequisites": [
+        "PHYS 2A"
+      ]
+    },
+    "PHYS 200A": {
+      "prerequisites": [
+        "PHYS 200A"
+      ]
+    },
+    "PHYS 210B": {},
+    "PHYS 215A": {},
+    "PHYS 216": {},
+    "PHYS 220": {},
+    "PHYS 275": {
+      "prerequisites": [
+        "PHYS 140A"
+      ]
+    },
+    "CHEM 6A": {
+      "prerequisites": [
+        "CHEM 4",
+        "MATH 3C"
+      ]
+    },
+    "CHEM 6B": {
+      "prerequisites": [
+        "CHEM 6A",
+        "MATH 10A"
+      ]
+    },
+    "CHEM 6C": {
+      "prerequisites": [
+        "CHEM 6B"
+      ]
+    },
+    "CHEM 40A": {
+      "prerequisites": [
+        "CHEM 6B"
+      ]
+    },
+    "CHEM 40B": {
+      "prerequisites": [
+        "CHEM 40A"
+      ]
+    },
+    "CHEM 41A": {
+      "prerequisites": [
+        "CHEM 6B"
+      ]
+    },
+    "CHEM 41C": {
+      "prerequisites": [
+        "CHEM 6B"
+      ]
+    },
+    "CHEM 43A": {
+      "prerequisites": [
+        "CHEM 7L"
+      ]
+    },
+    "CHEM 100A": {
+      "prerequisites": [
+        "CHEM 6C",
+        "CHEM 7L"
+      ]
+    },
+    "CHEM 108": {
+      "prerequisites": [
+        "CHEM 43A",
+        "CHEM 114A"
+      ]
+    },
+    "CHEM 109": {
+      "prerequisites": [
+        "CHEM 43A",
+        "CHEM 114A"
+      ]
+    },
+    "CHEM 114A": {
+      "prerequisites": [
+        "CHEM 40A"
+      ]
+    },
+    "CHEM 114D": {
+      "prerequisites": [
+        "CHEM 114A"
+      ]
+    },
+    "CHEM 116": {
+      "prerequisites": [
+        "CHEM 114A"
+      ]
+    },
+    "CHEM 117": {
+      "prerequisites": [
+        "CHEM 40B"
+      ]
+    },
+    "CHEM 126A": {
+      "prerequisites": [
+        "CHEM 6C",
+        "PHYS 1C",
+        "MATH 10C"
+      ]
+    },
+    "CHEM 130": {
+      "prerequisites": [
+        "CHEM 6C",
+        "PHYS 2C",
+        "MATH 20D"
+      ]
+    },
+    "CHEM 142": {
+      "prerequisites": [
+        "CHEM 40B",
+        "BIBC 100",
+        "BILD 1",
+        "CHEM 114A"
+      ]
+    },
+    "CHEM 143C": {
+      "prerequisites": [
+        "CHEM 43A",
+        "CHEM 40B"
+      ]
+    },
+    "CHEM 152": {
+      "prerequisites": [
+        "CHEM 40B"
+      ]
+    },
+    "CHEM 163": {
+      "prerequisites": [
+        "CHEM 41C"
+      ]
+    },
+    "CHEM 171": {
+      "prerequisites": [
+        "CHEM 6C"
+      ]
+    },
+    "CHEM 219A": {
+      "prerequisites": [
+        "CHEM 114A"
+      ]
+    },
+    "BENG 100": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20C"
+      ]
+    },
+    "BENG 110": {
+      "prerequisites": [
+        "MATH 20D",
+        "MATH 20E",
+        "MATH 18",
+        "MATH 31AH",
+        "PHYS 2A",
+        "PHYS 2C"
+      ]
+    },
+    "BENG 122A": {
+      "prerequisites": [
+        "MAE 40",
+        "ECE 35"
+      ]
+    },
+    "BENG 133": {
+      "prerequisites": [
+        "MATH 20D",
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    "BENG 135": {
+      "prerequisites": [
+        "ECE 45",
+        "MAE 40"
+      ]
+    },
+    "BENG 141": {
+      "prerequisites": [
+        "PHYS 2C"
+      ]
+    },
+    "BENG 161A": {
+      "prerequisites": [
+        "MATH 20D"
+      ]
+    },
+    "BENG 162": {},
+    "BENG 166A": {
+      "prerequisites": [
+        "BILD 1",
+        "CHEM 6C",
+        "CHEM 7L",
+        "MATH 20D",
+        "PHYS 2A",
+        "PHYS 2B"
+      ]
+    },
+    "BENG 183": {
+      "prerequisites": [
+        "BIMM 100"
+      ]
+    },
+    "BENG 187B": {},
+    "BENG 188A": {},
+    "BENG 211": {
+      "prerequisites": [
+        "BENG 230A",
+        "BIMM 100"
+      ]
+    },
+    "MAE 3": {
+      "prerequisites": [
+        "PHYS 2A"
+      ]
+    },
+    "MAE 8": {
+      "prerequisites": [
+        "MATH 20A"
+      ]
+    },
+    "MAE 11": {
+      "prerequisites": [
+        "PHYS 2C",
+        "CHEM 6A"
+      ]
+    },
+    "MAE 20": {
+      "prerequisites": [
+        "PHYS 2A",
+        "CHEM 6A",
+        "MATH 20C"
+      ]
+    },
+    "MAE 21": {
+      "prerequisites": [
+        "PHYS 2A",
+        "CHEM 6A",
+        "MATH 20B"
+      ]
+    },
+    "MAE 30A": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 20C"
+      ]
+    },
+    "MAE 40": {
+      "prerequisites": [
+        "MATH 20D",
+        "MATH 31AH",
+        "MATH 18",
+        "PHYS 2B"
+      ]
+    },
+    "MAE 101A": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 20D",
+        "MATH 20E"
+      ]
+    },
+    "MAE 101C": {
+      "prerequisites": [
+        "MAE 101A",
+        "CENG 101A",
+        "MAE 105"
+      ]
+    },
+    "MAE 104": {
+      "prerequisites": [
+        "MAE 101A"
+      ]
+    },
+    "MAE 105": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 20D"
+      ]
+    },
+    "MAE 107": {
+      "prerequisites": [
+        "MAE 8",
+        "MATH 18"
+      ]
+    },
+    "MAE 113": {
+      "prerequisites": [
+        "MAE 11",
+        "MAE 101A",
+        "CENG 101A"
+      ]
+    },
+    "MAE 114": {
+      "prerequisites": [
+        "MAE 113"
+      ]
+    },
+    "MAE 120": {
+      "prerequisites": [
+        "MAE 101A",
+        "CENG 101A"
+      ]
+    },
+    "MAE 122": {
+      "prerequisites": [
+        "MAE 101A",
+        "CENG 101A"
+      ]
+    },
+    "MAE 131A": {
+      "prerequisites": [
+        "MATH 20D",
+        "MAE 30A",
+        "SE 101A"
+      ]
+    },
+    "MAE 142": {
+      "prerequisites": [
+        "MAE 104"
+      ]
+    },
+    "MAE 143A": {
+      "prerequisites": [
+        "MATH 20D",
+        "MATH 20E",
+        "MATH 18"
+      ]
+    },
+    "MAE 148": {
+      "prerequisites": [
+        "ECE 15",
+        "ECE 35",
+        "MAE 2",
+        "MAE 3"
+      ]
+    },
+    "MAE 150": {
+      "prerequisites": [
+        "MAE 30A",
+        "SE 101A",
+        "BENG 110",
+        "MAE 107",
+        "MAE 3",
+        "MAE 2"
+      ]
+    },
+    "MAE 152": {
+      "prerequisites": [
+        "MAE 3",
+        "MAE 2"
+      ]
+    },
+    "MAE 153": {
+      "prerequisites": [
+        "MAE 131A"
+      ]
+    },
+    "MAE 156A": {
+      "prerequisites": [
+        "MAE 3",
+        "MAE 131A",
+        "MAE 150",
+        "MAE 170"
+      ]
+    },
+    "MAE 170": {
+      "prerequisites": [
+        "PHYS 2C",
+        "PHYS 2CL",
+        "MAE 40"
+      ]
+    },
+    "MAE 233A": {},
+    "MAE 283A": {},
+    "MAE 285": {
+      "prerequisites": [
+        "MAE 210A",
+        "CENG 210A"
+      ]
+    },
+    "AWP 4B": {},
+    "ASTR 18": {
+      "prerequisites": [
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C",
+        "PHYS 2D"
+      ]
+    },
+    "ASTR 20A": {
+      "prerequisites": [
+        "MATH 20A",
+        "PHYS 2A"
+      ]
+    },
+    "ASTR 101": {
+      "prerequisites": [
+        "PHYS 2A",
+        "MATH 18",
+        "ASTR 18"
+      ]
+    },
+    "ASTR 104": {},
+    "ASTR 120": {
+      "prerequisites": [
+        "PHYS 2A"
+      ]
+    },
+    "ASTR 124": {
+      "prerequisites": [
+        "PHYS 2A"
+      ]
+    },
+    "ASTR 150": {
+      "prerequisites": [
+        "PHYS 2A",
+        "COGS 18",
+        "CSE 11",
+        "CSE 6R",
+        "CSE 8A",
+        "DSC 10"
+      ]
+    },
+    "CLRE 254": {},
+    "CLRE 256": {},
+    "CLRE 257": {},
+    "CLRE 297": {
+      "prerequisites": [
+        "CLRE 295A"
+      ]
+    },
+    "COGS 14B": {
+      "prerequisites": [
+        "COGS 14A"
+      ]
+    },
+    "COGS 100": {
+      "prerequisites": [
+        "COGS 1",
+        "COGS 10"
+      ]
+    },
+    "COGS 101A": {
+      "prerequisites": [
+        "COGS 1"
+      ]
+    },
+    "COGS 101B": {
+      "prerequisites": [
+        "COGS 1"
+      ]
+    },
+    "COGS 102A": {
+      "prerequisites": [
+        "COGS 1",
+        "COGS 10"
+      ]
+    },
+    "COGS 107A": {
+      "prerequisites": [
+        "COGS 17"
+      ]
+    },
+    "COGS 107B": {
+      "prerequisites": [
+        "COGS 107A"
+      ]
+    },
+    "COGS 108": {
+      "prerequisites": [
+        "CSE 11",
+        "CSE 8A",
+        "COGS 18",
+        "DSC 10",
+        "MAE 8"
+      ]
+    },
+    "COGS 109": {
+      "prerequisites": [
+        "COGS 14B",
+        "MATH 18",
+        "MATH 31AH",
+        "COGS 18",
+        "CSE 8A",
+        "CSE 11"
+      ]
+    },
+    "COGS 115": {
+      "prerequisites": [
+        "BILD 10",
+        "COGS 107A",
+        "COGS 107B",
+        "COGS 17"
+      ]
+    },
+    "COGS 116": {
+      "prerequisites": [
+        "COGS 107A",
+        "COGS 107B",
+        "PSYC 106"
+      ]
+    },
+    "COGS 118A": {
+      "prerequisites": [
+        "COGS 18",
+        "CSE 11",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20E",
+        "MATH 180A",
+        "COGS 108",
+        "COGS 109",
+        "COGS 118B",
+        "CSE 158",
+        "ECE 174"
+      ]
+    },
+    "COGS 118B": {
+      "prerequisites": [
+        "COGS 18",
+        "CSE 11",
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20E",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183",
+        "COGS 108",
+        "COGS 109",
+        "COGS 118A",
+        "CSE 150A",
+        "CSE 151A",
+        "CSE 158",
+        "CSE 158R",
+        "ECE 174"
+      ]
+    },
+    "COGS 125": {
+      "prerequisites": [
+        "CSE 11",
+        "CSE 170"
+      ]
+    },
+    "COGS 128": {
+      "prerequisites": [
+        "COGS 10",
+        "DSGN 1",
+        "COGS 108"
+      ]
+    },
+    "COGS 150": {
+      "prerequisites": [
+        "COGS 14A",
+        "COGS 14B",
+        "MATH 11",
+        "PSYC 60"
+      ]
+    },
+    "COGS 165": {
+      "prerequisites": [
+        "COGS 107B",
+        "PSYC 106",
+        "PSYC 108"
+      ]
+    },
+    "COGS 187A": {
+      "prerequisites": [
+        "COGS 18",
+        "CSE 11",
+        "CSE 8A",
+        "COGS 10",
+        "DSGN 1"
+      ]
+    },
+    "COGS 189": {
+      "prerequisites": [
+        "COGS 108",
+        "COGS 109",
+        "COGS 118A",
+        "COGS 118B"
+      ]
+    },
+    "COMM 100A": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 101": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 101K": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 101"
+      ]
+    },
+    "COMM 101M": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 101N": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 101"
+      ]
+    },
+    "COMM 101T": {
+      "corequisites": [
+        "COMM 101",
+        "VIS 70N"
+      ]
+    },
+    "COMM 106": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 20",
+        "COMM 40"
+      ]
+    },
+    "COMM 106F": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 106N": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 20",
+        "COMM 40"
+      ]
+    },
+    "COMM 108D": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 113T": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 114E": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 114I": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 115": {
+      "prerequisites": [
+        "COMM 10"
+      ]
+    },
+    "COMM 119": {
+      "prerequisites": [
+        "COMM 80"
+      ]
+    },
+    "COMM 120M": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 127": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 133": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 134": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 135": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 142": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 146": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 148": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 20",
+        "COMM 40",
+        "COMM 50"
+      ]
+    },
+    "COMM 164": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 173": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 177": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 185": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "COMM 190": {
+      "prerequisites": [
+        "COMM 10",
+        "COMM 100A"
+      ]
+    },
+    "CCE 2": {
+      "prerequisites": [
+        "CCE 1"
+      ]
+    },
+    "CCE 3": {
+      "prerequisites": [
+        "CCE 2"
+      ]
+    },
+    "CGS 100A": {
+      "prerequisites": [
+        "CGS 2A"
+      ]
+    },
+    "CGS 150": {
+      "prerequisites": [
+        "CGS 2A",
+        "ETHN 1"
+      ]
+    },
+    "CGS 187": {
+      "prerequisites": [
+        "CGS 2A",
+        "ETHN 1"
+      ]
+    },
+    "DSGN 100": {
+      "prerequisites": [
+        "DSGN 1"
+      ]
+    },
+    "DSGN 118": {
+      "prerequisites": [
+        "COGS 187A",
+        "CSE 170",
+        "DSGN 100"
+      ]
+    },
+    "DSGN 119": {
+      "prerequisites": [
+        "COGS 10",
+        "DSGN 1"
+      ]
+    },
+    "DOC 1": {
+      "corequisites": [
+        "AWP 3"
+      ]
+    },
+    "ECON 2": {
+      "prerequisites": [
+        "ECON 1"
+      ]
+    },
+    "ECON 3": {
+      "prerequisites": [
+        "ECON 1"
+      ]
+    },
+    "ECON 100A": {
+      "prerequisites": [
+        "ECON 1",
+        "MATH 10C"
+      ]
+    },
+    "ECON 100B": {
+      "prerequisites": [
+        "ECON 100A"
+      ]
+    },
+    "ECON 100C": {
+      "prerequisites": [
+        "ECON 100B"
+      ]
+    },
+    "ECON 109": {
+      "prerequisites": [
+        "ECON 100C",
+        "MATH 109",
+        "CSE 20"
+      ]
+    },
+    "ECON 110A": {
+      "prerequisites": [
+        "ECON 1",
+        "ECON 3",
+        "MATH 10C",
+        "MATH 20C"
+      ]
+    },
+    "ECON 110B": {
+      "prerequisites": [
+        "ECON 1",
+        "ECON 3",
+        "MATH 10C",
+        "MATH 20C"
+      ]
+    },
+    "ECON 120A": {
+      "prerequisites": [
+        "ECON 1",
+        "MATH 10C"
+      ]
+    },
+    "ECON 120B": {
+      "prerequisites": [
+        "ECON 120A",
+        "ECE 109",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183"
+      ]
+    },
+    "ECON 120C": {
+      "prerequisites": [
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    "ECON 121": {
+      "prerequisites": [
+        "ECON 120B",
+        "MATH 181B",
+        "ECON 120C",
+        "ECON 5",
+        "POLI 5D"
+      ]
+    },
+    "ECON 129": {
+      "prerequisites": [
+        "ECON 110A",
+        "ECON 120A",
+        "ECE 109",
+        "MAE 108",
+        "MATH 180A",
+        "MATH 183"
+      ]
+    },
+    "ECON 130": {
+      "prerequisites": [
+        "ECON 2"
+      ]
+    },
+    "ECON 131": {
+      "prerequisites": [
+        "ECON 2"
+      ]
+    },
+    "ECON 139": {
+      "prerequisites": [
+        "ECON 2"
+      ]
+    },
+    "ECON 152": {
+      "prerequisites": [
+        "ECON 100C"
+      ]
+    },
+    "ECON 181": {
+      "prerequisites": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    "ECON 186": {
+      "prerequisites": [
+        "ECON 1",
+        "ECON 3"
+      ]
+    },
+    "ECON 204": {
+      "prerequisites": [
+        "ECON 200A"
+      ]
+    },
+    "ECON 220D": {},
+    "ECON 221": {
+      "prerequisites": [
+        "ECON 220A"
+      ]
+    },
+    "ECON 232": {
+      "prerequisites": [
+        "ECON 200A",
+        "ECON 220A"
+      ]
+    },
+    "ECON 262": {
+      "prerequisites": [
+        "ECON 200A"
+      ]
+    },
+    "ECON 268": {
+      "prerequisites": [
+        "ECON 200A"
+      ]
+    },
+    "EDS 115": {},
+    "EDS 129A": {
+      "corequisites": [
+        "EDS 139"
+      ]
+    },
+    "EDS 130": {
+      "corequisites": [
+        "EDS 139"
+      ]
+    },
+    "EDS 201": {},
+    "EDS 203": {},
+    "EDS 289D": {},
+    "ENG 100D": {
+      "prerequisites": [
+        "MCWP 40",
+        "WCWP 10B"
+      ]
+    },
+    "ENG 100L": {
+      "prerequisites": [
+        "ENG 100D"
+      ]
+    },
+    "ESYS 101": {
+      "prerequisites": [
+        "BILD 1"
+      ]
+    },
+    "ESYS 187A": {},
+    "ETHN 100A": {
+      "prerequisites": [
+        "ETHN 1"
+      ]
+    },
+    "HDS 111": {
+      "prerequisites": [
+        "HDS 1",
+        "ANTH 2",
+        "BILD 3"
+      ]
+    },
+    "HDS 150": {
+      "prerequisites": [
+        "HDS 181"
+      ]
+    },
+    "HDS 181": {
+      "prerequisites": [
+        "HDS 1",
+        "COGS 14B",
+        "ECON 120A",
+        "MATH 11",
+        "POLI 30D",
+        "PSYC 60"
+      ]
+    },
+    "HUM 3": {
+      "prerequisites": [
+        "HUM 1"
+      ]
+    },
+    "JAPN 135A": {
+      "prerequisites": [
+        "JAPN 20C"
+      ]
+    },
+    "JAPN 137A": {
+      "prerequisites": [
+        "JAPN 20C"
+      ]
+    },
+    "LATI 180": {
+      "prerequisites": [
+        "LATI 50"
+      ]
+    },
+    "MMW 14": {},
+    "MBC 258": {},
+    "MCWP 50": {
+      "prerequisites": [
+        "MCWP 40"
+      ]
+    },
+    "MUS 2AK": {
+      "corequisites": [
+        "MUS 2A"
+      ]
+    },
+    "MUS 32VM": {
+      "corequisites": [
+        "MUS 32V"
+      ]
+    },
+    "MUS 33A": {},
+    "MUS 101A": {},
+    "MUS 120A": {},
+    "MUS 132R": {
+      "prerequisites": [
+        "MUS 132"
+      ]
+    },
+    "MUS 137A": {
+      "prerequisites": [
+        "MUS 2A"
+      ]
+    },
+    "MUS 170": {
+      "prerequisites": [
+        "MUS 1A"
+      ]
+    },
+    "MUS 174A": {
+      "prerequisites": [
+        "MUS 170"
+      ]
+    },
+    "MUS 175": {
+      "recommended": [
+        "MUS 170"
+      ]
+    },
+    "MUS 270D": {},
+    "MUS 271C": {},
+    "MGT 100": {
+      "prerequisites": [
+        "ECON 120B",
+        "MATH 181B"
+      ]
+    },
+    "MGT 105": {
+      "prerequisites": [
+        "MGT 100",
+        "MGT 103"
+      ]
+    },
+    "MGT 109": {
+      "prerequisites": [
+        "MGT 100",
+        "MGT 103"
+      ]
+    },
+    "MGT 112": {
+      "prerequisites": [
+        "MGT 100",
+        "MGT 103"
+      ]
+    },
+    "MGT 131A": {
+      "prerequisites": [
+        "MGT 5",
+        "MGT 4",
+        "ECON 4"
+      ]
+    },
+    "MGT 132": {},
+    "MGT 135": {},
+    "MGT 137": {
+      "prerequisites": [
+        "MGT 45",
+        "MGT 5",
+        "ECON 4",
+        "MGT 4"
+      ]
+    },
+    "MGT 151R": {
+      "prerequisites": [
+        "MATH 10A",
+        "MATH 18",
+        "MATH 20A",
+        "MATH 31AH",
+        "BENG 100",
+        "COGS 14B",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 11",
+        "MATH 180A",
+        "MATH 183",
+        "MGT 3",
+        "PSYC 60"
+      ]
+    },
+    "MGT 153": {
+      "prerequisites": [
+        "MATH 10A",
+        "MATH 18",
+        "MATH 20A",
+        "MATH 31AH",
+        "BENG 100",
+        "COGS 14B",
+        "ECE 109",
+        "ECON 120A",
+        "MAE 108",
+        "MATH 11",
+        "MATH 180A",
+        "MATH 183",
+        "MGT 3",
+        "PSYC 60"
+      ]
+    },
+    "NANO 11": {
+      "prerequisites": [
+        "NANO 4"
+      ]
+    },
+    "NANO 102": {
+      "prerequisites": [
+        "CHEM 6C"
+      ]
+    },
+    "NANO 103": {
+      "prerequisites": [
+        "BILD 1",
+        "CHEM 6C",
+        "NANO 11",
+        "NANO 102"
+      ]
+    },
+    "NANO 111": {
+      "prerequisites": [
+        "NANO 102"
+      ]
+    },
+    "NANO 119": {},
+    "NANO 150": {},
+    "NANO 159": {
+      "prerequisites": [
+        "CHEM 6A",
+        "CHEM 6B",
+        "CHEM 6C",
+        "CHEM 7L"
+      ]
+    },
+    "PHIL 27": {
+      "prerequisites": [
+        "CCE 1",
+        "HUM 1",
+        "MCWP 40",
+        "MCWP 40R",
+        "WCWP 10A"
+      ]
+    },
+    "PHIL 28": {
+      "prerequisites": [
+        "PHIL 27"
+      ]
+    },
+    "PHIL 120": {
+      "prerequisites": [
+        "PHIL 10"
+      ]
+    },
+    "POLI 176": {
+      "prerequisites": [
+        "POLI 30D"
+      ]
+    },
+    "PSYC 70": {
+      "prerequisites": [
+        "PSYC 60"
+      ]
+    },
+    "PSYC 71": {
+      "prerequisites": [
+        "COGS 14B",
+        "PSYC 60",
+        "MATH 11",
+        "PSYC 70",
+        "COGS 14A"
+      ]
+    },
+    "PSYC 114": {
+      "prerequisites": [
+        "PSYC 60",
+        "COGS 14B",
+        "MATH 11",
+        "PSYC 70",
+        "COGS 14A"
+      ]
+    },
+    "PSYC 124": {
+      "prerequisites": [
+        "PSYC 100"
+      ]
+    },
+    "PSYC 171": {
+      "prerequisites": [
+        "COGS 107B",
+        "COGS 17",
+        "PSYC 106",
+        "PSYC 181",
+        "PSYC 2"
+      ]
+    },
+    "PSYC 189": {
+      "prerequisites": [
+        "BILD 2",
+        "COGS 101A",
+        "COGS 107B",
+        "PSYC 106"
+      ]
+    },
+    "PSYC 193L": {
+      "prerequisites": [
+        "PSYC 60",
+        "COGS 14B",
+        "MATH 11",
+        "PSYC 70",
+        "COGS 14A"
+      ]
+    },
+    "PSYC 194A": {},
+    "PH 101": {
+      "prerequisites": [
+        "PH 40",
+        "PSYC 60",
+        "HDS 60",
+        "MATH 11",
+        "COGS 14B"
+      ]
+    },
+    "PH 102": {
+      "prerequisites": [
+        "PH 40",
+        "PSYC 60",
+        "HDS 60",
+        "MATH 11",
+        "COGS 14B"
+      ]
+    },
+    "PH 110": {
+      "prerequisites": [
+        "PH 40"
+      ]
+    },
+    "PH 120": {
+      "prerequisites": [
+        "PH 40"
+      ]
+    },
+    "PH 130": {
+      "prerequisites": [
+        "PH 40",
+        "PH 101"
+      ]
+    },
+    "PH 157": {
+      "prerequisites": [
+        "PH 40"
+      ]
+    },
+    "PH 161": {
+      "prerequisites": [
+        "PH 40"
+      ]
+    },
+    "PH 193": {
+      "prerequisites": [
+        "PH 40",
+        "PH 101",
+        "PH 102",
+        "PH 110",
+        "PH 120"
+      ]
+    },
+    "SIO 100": {
+      "prerequisites": [
+        "SIO 50"
+      ]
+    },
+    "SIO 101": {
+      "prerequisites": [
+        "CHEM 6A"
+      ]
+    },
+    "SIO 103": {
+      "prerequisites": [
+        "MATH 20C",
+        "PHYS 2C",
+        "SIO 50"
+      ]
+    },
+    "SIO 105": {
+      "prerequisites": [
+        "SIO 50"
+      ]
+    },
+    "SIO 117": {
+      "prerequisites": [
+        "MATH 20D",
+        "PHYS 2C"
+      ]
+    },
+    "SIO 122": {
+      "prerequisites": [
+        "BILD 3",
+        "BICD 100"
+      ]
+    },
+    "SIO 124": {
+      "prerequisites": [
+        "CHEM 6C",
+        "BILD 1",
+        "BILD 3"
+      ]
+    },
+    "SIO 132": {
+      "prerequisites": [
+        "BILD 3"
+      ]
+    },
+    "SIO 136": {
+      "prerequisites": [
+        "BILD 3",
+        "SIO 132"
+      ]
+    },
+    "SIO 147": {
+      "prerequisites": [
+        "BILD 3"
+      ]
+    },
+    "SIO 167": {
+      "prerequisites": [
+        "SIO 50"
+      ]
+    },
+    "SIO 170": {
+      "prerequisites": [
+        "SIO 100",
+        "CHEM 6A"
+      ]
+    },
+    "SIO 171": {
+      "prerequisites": [
+        "MATH 20C",
+        "PHYS 2C",
+        "PHYS 4C"
+      ]
+    },
+    "SIO 189": {
+      "prerequisites": [
+        "CHEM 6C",
+        "BILD 1"
+      ]
+    },
+    "SE 101A": {
+      "prerequisites": [
+        "MATH 20C",
+        "PHYS 2A"
+      ]
+    },
+    "SE 101C": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH"
+      ]
+    },
+    "SE 105": {
+      "prerequisites": [
+        "SE 1",
+        "SE 101A"
+      ]
+    },
+    "SE 125": {
+      "prerequisites": [
+        "MATH 18",
+        "MATH 31AH",
+        "MATH 20D"
+      ]
+    },
+    "SE 130A": {
+      "prerequisites": [
+        "MAE 131A"
+      ]
+    },
+    "SE 131B": {
+      "prerequisites": [
+        "SE 101C"
+      ]
+    },
+    "SE 142": {
+      "prerequisites": [
+        "MAE 131A"
+      ]
+    },
+    "SE 163": {},
+    "SE 180": {
+      "prerequisites": [
+        "SE 130A"
+      ]
+    },
+    "SE 181": {
+      "prerequisites": [
+        "MAE 131A"
+      ]
+    },
+    "SE 212": {
+      "prerequisites": [
+        "SE 130A"
+      ]
+    },
+    "SE 220": {},
+    "SE 223": {},
+    "SE 271": {},
+    "SE 285": {
+      "prerequisites": [
+        "SE 276A",
+        "MAE 232A",
+        "SE 233",
+        "MAE 235"
+      ]
+    },
+    "SYN 2": {},
+    "SYN 2R": {},
+    "SYN 100": {
+      "prerequisites": [
+        "SYN 2"
+      ]
+    },
+    "SYN 150": {
+      "corequisites": [
+        "SYN 100"
+      ]
+    },
+    "SYN 150R": {
+      "corequisites": [
+        "SYN 100"
+      ]
+    },
+    "USP 151": {
+      "prerequisites": [
+        "USP 5"
+      ]
+    },
+    "USP 152B": {},
+    "USP 185A": {
+      "prerequisites": [
+        "USP 50",
+        "USP 124",
+        "USP 151",
+        "USP 153"
+      ]
+    },
+    "USP 186": {
+      "prerequisites": [
+        "USP 60",
+        "USP 124"
+      ]
+    },
+    "USP 191A": {
+      "prerequisites": [
+        "USP 4"
+      ]
+    },
+    "VIS 100A": {
+      "prerequisites": [
+        "VIS 100"
+      ]
+    },
+    "VIS 105A": {
+      "prerequisites": [
+        "VIS 80"
+      ]
+    },
+    "VIS 105B": {
+      "prerequisites": [
+        "VIS 105A"
+      ]
+    },
+    "VIS 105C": {
+      "prerequisites": [
+        "VIS 105B"
+      ]
+    },
+    "VIS 106A": {
+      "prerequisites": [
+        "VIS 80"
+      ]
+    },
+    "VIS 106B": {
+      "prerequisites": [
+        "VIS 106A"
+      ]
+    },
+    "VIS 107A": {
+      "prerequisites": [
+        "VIS 80"
+      ]
+    },
+    "VIS 107C": {},
+    "VIS 113CN": {},
+    "VIS 120A": {
+      "prerequisites": [
+        "VIS 20"
+      ]
+    },
+    "VIS 121C": {
+      "recommended": [
+        "VIS 20"
+      ]
+    },
+    "VIS 128C": {},
+    "VIS 129A": {},
+    "VIS 133A": {
+      "prerequisites": [
+        "VIS 30",
+        "VIS 41"
+      ]
+    },
+    "VIS 141A": {
+      "prerequisites": [
+        "VIS 142",
+        "CSE 11"
+      ]
+    },
+    "VIS 143": {
+      "recommended": [
+        "VIS 142",
+        "CSE 11"
+      ]
+    },
+    "VIS 145B": {},
+    "VIS 146B": {},
+    "VIS 147A": {
+      "prerequisites": [
+        "VIS 41",
+        "VIS 70N",
+        "VIS 80"
+      ],
+      "recommended": [
+        "CSE 8A"
+      ]
+    },
+    "VIS 147B": {
+      "prerequisites": [
+        "VIS 147A"
+      ]
+    },
+    "VIS 149": {},
+    "VIS 162": {},
+    "VIS 163": {
+      "prerequisites": [
+        "VIS 30",
+        "VIS 41"
+      ]
+    },
+    "VIS 164": {
+      "prerequisites": [
+        "VIS 60"
+      ]
+    },
+    "VIS 165A": {
+      "prerequisites": [
+        "VIS 60"
+      ]
+    },
+    "VIS 167": {
+      "prerequisites": [
+        "VIS 164"
+      ]
+    },
+    "VIS 171": {
+      "prerequisites": [
+        "VIS 174"
+      ]
+    },
+    "VIS 174": {
+      "prerequisites": [
+        "VIS 70N"
+      ]
+    },
+    "VIS 175": {
+      "prerequisites": [
+        "VIS 174"
+      ]
+    },
+    "VIS 179": {
+      "prerequisites": [
+        "VIS 174"
+      ]
+    },
+    "VIS 180A": {
+      "prerequisites": [
+        "VIS 174",
+        "VIS 164"
+      ]
+    },
+    "VIS 180B": {
+      "prerequisites": [
+        "VIS 174",
+        "VIS 164"
+      ]
+    },
+    "VIS 183B": {
+      "prerequisites": [
+        "VIS 174",
+        "VIS 164"
+      ]
+    }
+  },
+  "invalid": {
+    "CSE 12": {
+      "prerequisites": [
+        "CSE 8B"
+      ]
+    },
+    "CSE 20": {
+      "prerequisites": [
+        "CSE 8B"
+      ]
+    },
+    "CSE 21": {
+      "corequisites": [
+        "MATH 15A",
+        "MATH 31CH",
+        "MATH 188"
+      ]
+    },
+    "CSE 29": {
+      "prerequisites": [
+        "CSE 8B",
+        "CSE 15L"
+      ]
+    },
+    "CSE 30": {
+      "prerequisites": [
+        "CSE 15L"
+      ]
+    },
+    "CSE 100": {
+      "prerequisites": [
+        "MATH 158",
+        "MATH 188",
+        "CSE 15L"
+      ]
+    },
+    "CSE 100R": {
+      "prerequisites": [
+        "MATH 158",
+        "MATH 188",
+        "CSE 15L"
+      ]
+    },
+    "CSE 101": {
+      "prerequisites": [
+        "MATH 158",
+        "MATH 188"
+      ]
+    },
+    "CSE 103": {
+      "prerequisites": [
+        "MATH 158",
+        "MATH 188"
+      ]
+    },
+    "CSE 105": {
+      "prerequisites": [
+        "MATH 15A",
+        "MATH 31CH",
+        "MATH 158",
+        "MATH 188"
+      ]
+    },
+    "CSE 107": {
+      "prerequisites": [
+        "MATH 158",
+        "MATH 188"
+      ]
+    },
+    "CSE 110": {},
+    "CSE 118": {
+      "prerequisites": [
+        "COGS 102C",
+        "COGS 121",
+        "COGS 184",
+        "COGS 184GS",
+        "CSE 132B",
+        "ECE 118",
+        "ECE 191",
+        "ECE 192"
+      ]
+    },
+    "CSE 120": {
+      "prerequisites": [
+        "CSE 15L"
+      ]
+    },
+    "CSE 127": {
+      "prerequisites": [
+        "MATH 158",
+        "MATH 188",
+        "CSE 123",
+        "CSE 124",
+        "ECE 158B"
+      ]
+    },
+    "CSE 130": {},
+    "CSE 131": {},
+    "CSE 132A": {},
+    "CSE 134B": {},
+    "CSE 140": {},
+    "CSE 140L": {},
+    "CSE 141": {},
+    "CSE 141L": {},
+    "CSE 142": {},
+    "CSE 150A": {
+      "prerequisites": [
+        "CSE 15L",
+        "COGS 118D",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 186"
+      ]
+    },
+    "CSE 150B": {
+      "prerequisites": [
+        "CSE 15L",
+        "COGS 118D",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 186"
+      ]
+    },
+    "CSE 151A": {
+      "prerequisites": [
+        "CSE 15L",
+        "COGS 118D",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 186",
+        "MATH 31BH"
+      ]
+    },
+    "CSE 152A": {
+      "recommended": [
+        "CSE 15L"
+      ]
+    },
+    "CSE 158": {
+      "prerequisites": [
+        "CSE 15L",
+        "BENG 134",
+        "COGS 118D",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 186"
+      ]
+    },
+    "CSE 158R": {
+      "prerequisites": [
+        "CSE 15L",
+        "BENG 134",
+        "COGS 118D",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 186"
+      ]
+    },
+    "CSE 167": {},
+    "CSE 170": {},
+    "CSE 194": {
+      "prerequisites": [
+        "AAS 10",
+        "ETHN 3",
+        "LTEN 27",
+        "CAT 3",
+        "DOC 3",
+        "HUM 2",
+        "MCWP 125R",
+        "MCWP 50R",
+        "MMW 121R",
+        "MMW 122",
+        "MMW 13"
+      ]
+    },
+    "CSE 206A": {
+      "corequisites": [
+        "CSE 200"
+      ]
+    },
+    "CSE 221": {},
+    "CSE 227": {},
+    "CSE 237C": {
+      "prerequisites": [
+        "CSE 237A"
+      ]
+    },
+    "CSE 250A": {},
+    "ECE 17": {
+      "prerequisites": [
+        "CSE 8B"
+      ]
+    },
+    "ECE 30": {},
+    "ECE 35": {},
+    "ECE 45": {},
+    "ECE 65": {},
+    "ECE 100": {},
+    "ECE 101": {},
+    "ECE 102": {},
+    "ECE 103": {
+      "prerequisites": [
+        "PHYS 4D"
+      ]
+    },
+    "ECE 107": {},
+    "ECE 108": {},
+    "ECE 109": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "ECE 111": {},
+    "ECE 121A": {},
+    "ECE 135A": {},
+    "ECE 143": {
+      "prerequisites": [
+        "ECE 16"
+      ]
+    },
+    "ECE 148": {},
+    "ECE 155": {
+      "prerequisites": [
+        "MATH 180B",
+        "MATH 186",
+        "ECE 153"
+      ]
+    },
+    "ECE 158A": {},
+    "ECE 161A": {},
+    "ECE 164": {},
+    "ECE 166": {},
+    "ECE 171B": {
+      "prerequisites": [
+        "ECE 171A"
+      ]
+    },
+    "ECE 174": {},
+    "ECE 182": {},
+    "ECE 203": {},
+    "ECE 222A": {},
+    "ECE 230A": {},
+    "ECE 240A": {
+      "prerequisites": [
+        "ECE 183"
+      ]
+    },
+    "ECE 250": {
+      "prerequisites": [
+        "ECE 153"
+      ]
+    },
+    "ECE 253": {
+      "prerequisites": [
+        "ECE 161"
+      ]
+    },
+    "ECE 255A": {
+      "prerequisites": [
+        "ECE 159"
+      ]
+    },
+    "ECE 257A": {},
+    "ECE 258A": {},
+    "ECE 260A": {
+      "prerequisites": [
+        "ECE 165"
+      ]
+    },
+    "ECE 264C": {
+      "prerequisites": [
+        "ECE 264B",
+        "ECE 163"
+      ]
+    },
+    "ECE 265C": {
+      "prerequisites": [
+        "ECE 265A"
+      ]
+    },
+    "ECE 271A": {},
+    "ECE 276C": {
+      "prerequisites": [
+        "ECE 276B"
+      ]
+    },
+    "DSC 20": {},
+    "DSC 30": {},
+    "DSC 40A": {
+      "prerequisites": [
+        "MATH 31BH",
+        "MATH 20F"
+      ]
+    },
+    "DSC 40B": {},
+    "DSC 80": {},
+    "DSC 95": {},
+    "DSC 100": {},
+    "DSC 102": {},
+    "DSC 106": {},
+    "DSC 140A": {
+      "prerequisites": [
+        "MATH 186"
+      ]
+    },
+    "DSC 161": {
+      "prerequisites": [
+        "POLI 170A",
+        "POLI 171",
+        "POLI 30",
+        "POLI 5"
+      ]
+    },
+    "DSC 180A": {
+      "prerequisites": [
+        "MATH 189",
+        "COGS 188",
+        "DSC 148"
+      ]
+    },
+    "DSC 204A": {
+      "prerequisites": [
+        "DSC 202"
+      ]
+    },
+    "DSC 209R": {
+      "prerequisites": [
+        "DSC 208R"
+      ]
+    },
+    "DSC 241": {},
+    "DSC 256R": {},
+    "DSC 257R": {
+      "prerequisites": [
+        "DSC 255R"
+      ]
+    },
+    "DSC 261": {
+      "prerequisites": [
+        "DSC 240"
+      ]
+    },
+    "MATH 3C": {},
+    "MATH 4C": {},
+    "MATH 10A": {},
+    "MATH 10B": {},
+    "MATH 10C": {},
+    "MATH 11": {},
+    "MATH 18": {},
+    "MATH 20A": {
+      "prerequisites": [
+        "MATH 2C"
+      ]
+    },
+    "MATH 20B": {},
+    "MATH 20C": {},
+    "MATH 20D": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "MATH 20E": {
+      "prerequisites": [
+        "MATH 20F",
+        "MATH 21C",
+        "MATH 31BH"
+      ]
+    },
+    "MATH 96": {},
+    "MATH 100A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 102": {
+      "prerequisites": [
+        "MATH 20F"
+      ]
+    },
+    "MATH 103A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 105": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 109": {
+      "prerequisites": [
+        "MATH 20F"
+      ]
+    },
+    "MATH 120A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 140A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 142A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 153": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 154": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 170A": {
+      "prerequisites": [
+        "MATH 31BH",
+        "MATH 15A",
+        "MATH 31CH"
+      ]
+    },
+    "MATH 173A": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "MATH 174": {
+      "prerequisites": [
+        "MATH 21D",
+        "MATH 20F"
+      ]
+    },
+    "MATH 180A": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "MATH 180C": {
+      "prerequisites": [
+        "MATH 180B"
+      ]
+    },
+    "MATH 181B": {
+      "prerequisites": [
+        "MATH 181A"
+      ]
+    },
+    "MATH 183": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "MATH 184": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 187A": {},
+    "MATH 190A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MATH 201A": {
+      "prerequisites": [
+        "MATH 200C"
+      ]
+    },
+    "MATH 203A": {
+      "prerequisites": [
+        "MATH 200C"
+      ]
+    },
+    "MATH 204A": {
+      "prerequisites": [
+        "MATH 200C"
+      ]
+    },
+    "MATH 210A": {},
+    "MATH 220A": {},
+    "MATH 241A": {
+      "prerequisites": [
+        "MATH 240C"
+      ]
+    },
+    "MATH 242": {
+      "prerequisites": [
+        "MATH 240C"
+      ]
+    },
+    "MATH 251A": {
+      "prerequisites": [
+        "MATH 200"
+      ]
+    },
+    "MATH 274": {
+      "prerequisites": [
+        "MATH 20F"
+      ]
+    },
+    "MATH 280A": {},
+    "MATH 287A": {},
+    "MATH 290A": {},
+    "PHYS 1A": {},
+    "PHYS 1AL": {},
+    "PHYS 1B": {},
+    "PHYS 1BL": {},
+    "PHYS 1C": {},
+    "PHYS 1CL": {},
+    "PHYS 2A": {},
+    "PHYS 2B": {},
+    "PHYS 2C": {},
+    "PHYS 2CL": {},
+    "PHYS 2D": {},
+    "PHYS 2DL": {
+      "prerequisites": [
+        "PHYS 2BL"
+      ]
+    },
+    "PHYS 4C": {
+      "prerequisites": [
+        "PHYS 4A"
+      ]
+    },
+    "PHYS 100A": {
+      "prerequisites": [
+        "PHYS 4A"
+      ]
+    },
+    "PHYS 110A": {
+      "prerequisites": [
+        "PHYS 4A"
+      ]
+    },
+    "PHYS 116": {
+      "prerequisites": [
+        "PHYS 100B"
+      ]
+    },
+    "PHYS 130B": {
+      "prerequisites": [
+        "PHYS 100B"
+      ]
+    },
+    "PHYS 133": {},
+    "PHYS 136": {
+      "prerequisites": [
+        "PHYS 4D"
+      ]
+    },
+    "PHYS 139": {},
+    "PHYS 140A": {
+      "prerequisites": [
+        "PHYS 130A"
+      ]
+    },
+    "PHYS 161": {
+      "prerequisites": [
+        "PHYS 4A"
+      ]
+    },
+    "PHYS 175": {
+      "prerequisites": [
+        "CHEM 126"
+      ]
+    },
+    "PHYS 191": {},
+    "PHYS 200A": {},
+    "PHYS 210B": {
+      "prerequisites": [
+        "PHYS 210A"
+      ]
+    },
+    "PHYS 215A": {
+      "prerequisites": [
+        "PHYS 212C"
+      ]
+    },
+    "PHYS 216": {
+      "prerequisites": [
+        "PHYS 100B"
+      ]
+    },
+    "PHYS 220": {
+      "prerequisites": [
+        "PHYS 212C"
+      ]
+    },
+    "PHYS 275": {
+      "prerequisites": [
+        "CHEM 132"
+      ]
+    },
+    "CHEM 6A": {},
+    "CHEM 6B": {},
+    "CHEM 6C": {},
+    "CHEM 40A": {},
+    "CHEM 40B": {},
+    "CHEM 41A": {},
+    "CHEM 41C": {},
+    "CHEM 43A": {},
+    "CHEM 100A": {},
+    "CHEM 108": {},
+    "CHEM 109": {},
+    "CHEM 114A": {},
+    "CHEM 114D": {},
+    "CHEM 116": {
+      "prerequisites": [
+        "CHEM 40C"
+      ]
+    },
+    "CHEM 117": {},
+    "CHEM 126A": {},
+    "CHEM 130": {},
+    "CHEM 142": {},
+    "CHEM 143C": {},
+    "CHEM 152": {},
+    "CHEM 163": {},
+    "CHEM 171": {},
+    "CHEM 219A": {},
+    "BENG 100": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "BENG 110": {
+      "prerequisites": [
+        "MATH 31CH",
+        "PHYS 2AR",
+        "PHYS 2BL"
+      ]
+    },
+    "BENG 122A": {},
+    "BENG 133": {},
+    "BENG 135": {},
+    "BENG 141": {},
+    "BENG 161A": {
+      "prerequisites": [
+        "BENG 103B"
+      ]
+    },
+    "BENG 162": {
+      "prerequisites": [
+        "BENG 160"
+      ]
+    },
+    "BENG 166A": {
+      "prerequisites": [
+        "CHEM 6CH",
+        "CHEM 7LM",
+        "PHYS 2AR"
+      ]
+    },
+    "BENG 183": {
+      "prerequisites": [
+        "CHEM 114C"
+      ]
+    },
+    "BENG 187B": {
+      "prerequisites": [
+        "BENG 187A"
+      ]
+    },
+    "BENG 188A": {
+      "prerequisites": [
+        "BENG 187A"
+      ]
+    },
+    "BENG 211": {},
+    "MAE 3": {},
+    "MAE 8": {},
+    "MAE 11": {},
+    "MAE 20": {
+      "prerequisites": [
+        "CHEM 6AH"
+      ]
+    },
+    "MAE 21": {
+      "prerequisites": [
+        "CHEM 6AH"
+      ]
+    },
+    "MAE 30A": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "MAE 40": {
+      "prerequisites": [
+        "MATH 20F"
+      ]
+    },
+    "MAE 101A": {
+      "prerequisites": [
+        "MATH 31CH"
+      ]
+    },
+    "MAE 101C": {
+      "prerequisites": [
+        "MAE 101B"
+      ]
+    },
+    "MAE 104": {},
+    "MAE 105": {},
+    "MAE 107": {},
+    "MAE 113": {
+      "prerequisites": [
+        "MAE 110A",
+        "CENG 102",
+        "MAE 101B",
+        "CENG 101C"
+      ]
+    },
+    "MAE 114": {},
+    "MAE 120": {},
+    "MAE 122": {},
+    "MAE 131A": {
+      "prerequisites": [
+        "MAE 130A"
+      ]
+    },
+    "MAE 142": {
+      "prerequisites": [
+        "MAE 143B",
+        "ECE 171A"
+      ]
+    },
+    "MAE 143A": {},
+    "MAE 148": {},
+    "MAE 150": {
+      "prerequisites": [
+        "MAE 130A",
+        "SE 121"
+      ]
+    },
+    "MAE 152": {},
+    "MAE 153": {},
+    "MAE 156A": {
+      "prerequisites": [
+        "MAE 30B"
+      ]
+    },
+    "MAE 170": {
+      "prerequisites": [
+        "PHYS 4B",
+        "MAE 140"
+      ]
+    },
+    "MAE 233A": {
+      "prerequisites": [
+        "MAE 231A",
+        "MAE 231B"
+      ]
+    },
+    "MAE 283A": {
+      "prerequisites": [
+        "MAE 143C"
+      ]
+    },
+    "MAE 285": {
+      "prerequisites": [
+        "MAE 210B"
+      ]
+    },
+    "AWP 4B": {
+      "prerequisites": [
+        "AWP 4A"
+      ]
+    },
+    "ASTR 18": {
+      "prerequisites": [
+        "PHYS 2AR"
+      ]
+    },
+    "ASTR 20A": {},
+    "ASTR 101": {},
+    "ASTR 104": {
+      "prerequisites": [
+        "ASTR 103"
+      ]
+    },
+    "ASTR 120": {},
+    "ASTR 124": {},
+    "ASTR 150": {
+      "prerequisites": [
+        "BILD 62",
+        "CSE 8B",
+        "PHYS 41"
+      ]
+    },
+    "CLRE 254": {
+      "prerequisites": [
+        "CLRE 253"
+      ]
+    },
+    "CLRE 256": {
+      "prerequisites": [
+        "CLRE 250"
+      ]
+    },
+    "CLRE 257": {
+      "prerequisites": [
+        "CLRE 251"
+      ]
+    },
+    "CLRE 297": {},
+    "COGS 14B": {},
+    "COGS 100": {},
+    "COGS 101A": {},
+    "COGS 101B": {},
+    "COGS 102A": {},
+    "COGS 107A": {
+      "prerequisites": [
+        "BILD 12"
+      ]
+    },
+    "COGS 107B": {},
+    "COGS 108": {},
+    "COGS 109": {
+      "prerequisites": [
+        "CSE 7"
+      ]
+    },
+    "COGS 115": {
+      "prerequisites": [
+        "BILD 12",
+        "HDP 110"
+      ]
+    },
+    "COGS 116": {},
+    "COGS 118A": {
+      "prerequisites": [
+        "CSE 8B",
+        "CSE 150",
+        "CSE 151",
+        "ECE 175A"
+      ]
+    },
+    "COGS 118B": {
+      "prerequisites": [
+        "BILD 62",
+        "CSE 8B",
+        "MATH 186",
+        "COGS 188",
+        "DSC 148",
+        "ECE 175A"
+      ]
+    },
+    "COGS 125": {
+      "prerequisites": [
+        "COGS 120"
+      ]
+    },
+    "COGS 128": {},
+    "COGS 150": {},
+    "COGS 165": {
+      "prerequisites": [
+        "COGS 107C"
+      ]
+    },
+    "COGS 187A": {},
+    "COGS 189": {},
+    "COMM 100A": {},
+    "COMM 101": {},
+    "COMM 101K": {},
+    "COMM 101M": {},
+    "COMM 101N": {},
+    "COMM 101T": {
+      "corequisites": [
+        "COGN 22"
+      ]
+    },
+    "COMM 106": {
+      "prerequisites": [
+        "COMM 30",
+        "COMM 30GS"
+      ]
+    },
+    "COMM 106F": {},
+    "COMM 106N": {
+      "prerequisites": [
+        "COMM 30",
+        "COMM 30GS"
+      ]
+    },
+    "COMM 108D": {},
+    "COMM 113T": {},
+    "COMM 114E": {},
+    "COMM 114I": {},
+    "COMM 115": {},
+    "COMM 119": {},
+    "COMM 120M": {},
+    "COMM 127": {},
+    "COMM 133": {},
+    "COMM 134": {},
+    "COMM 135": {},
+    "COMM 142": {},
+    "COMM 146": {},
+    "COMM 148": {
+      "prerequisites": [
+        "COMM 30",
+        "COMM 30GS"
+      ]
+    },
+    "COMM 164": {},
+    "COMM 173": {},
+    "COMM 177": {},
+    "COMM 185": {},
+    "COMM 190": {},
+    "CCE 2": {},
+    "CCE 3": {},
+    "CGS 100A": {},
+    "CGS 150": {},
+    "CGS 187": {},
+    "DSGN 100": {},
+    "DSGN 118": {
+      "prerequisites": [
+        "COGS 120",
+        "COGS 187B"
+      ]
+    },
+    "DSGN 119": {
+      "prerequisites": [
+        "COMM 124A"
+      ]
+    },
+    "DOC 1": {},
+    "ECON 2": {},
+    "ECON 3": {},
+    "ECON 100A": {},
+    "ECON 100B": {},
+    "ECON 100C": {},
+    "ECON 109": {
+      "prerequisites": [
+        "MATH 31CH",
+        "MATH 20"
+      ]
+    },
+    "ECON 110A": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "ECON 110B": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "ECON 120A": {},
+    "ECON 120B": {
+      "prerequisites": [
+        "MATH 186"
+      ]
+    },
+    "ECON 120C": {},
+    "ECON 121": {
+      "prerequisites": [
+        "POLI 5"
+      ]
+    },
+    "ECON 129": {
+      "prerequisites": [
+        "MATH 186"
+      ]
+    },
+    "ECON 130": {},
+    "ECON 131": {},
+    "ECON 139": {},
+    "ECON 152": {},
+    "ECON 181": {},
+    "ECON 186": {},
+    "ECON 204": {},
+    "ECON 220D": {
+      "prerequisites": [
+        "ECON 220C"
+      ]
+    },
+    "ECON 221": {},
+    "ECON 232": {},
+    "ECON 262": {},
+    "ECON 268": {},
+    "EDS 115": {
+      "prerequisites": [
+        "ED 78",
+        "ED 76"
+      ]
+    },
+    "EDS 129A": {},
+    "EDS 130": {},
+    "EDS 201": {
+      "prerequisites": [
+        "ED 76"
+      ]
+    },
+    "EDS 203": {
+      "prerequisites": [
+        "ED 76"
+      ]
+    },
+    "EDS 289D": {
+      "prerequisites": [
+        "EDS 289C"
+      ]
+    },
+    "ENG 100D": {
+      "prerequisites": [
+        "CAT 2",
+        "DOC 2",
+        "HUM 2",
+        "MMW 2",
+        "SYN 1"
+      ]
+    },
+    "ENG 100L": {},
+    "ESYS 101": {},
+    "ESYS 187A": {
+      "prerequisites": [
+        "ESYS 103"
+      ]
+    },
+    "ETHN 100A": {
+      "prerequisites": [
+        "ETHN 2",
+        "ETHN 3"
+      ]
+    },
+    "HDS 111": {
+      "prerequisites": [
+        "HDP 1"
+      ]
+    },
+    "HDS 150": {
+      "prerequisites": [
+        "HDP 181"
+      ]
+    },
+    "HDS 181": {
+      "prerequisites": [
+        "BIEB 100",
+        "POLI 30"
+      ]
+    },
+    "HUM 3": {
+      "prerequisites": [
+        "HUM 2"
+      ]
+    },
+    "JAPN 135A": {},
+    "JAPN 137A": {},
+    "LATI 180": {},
+    "MMW 14": {
+      "prerequisites": [
+        "MMW 12",
+        "MMW 12R",
+        "MMW 13",
+        "MMW 13R"
+      ]
+    },
+    "MBC 258": {
+      "prerequisites": [
+        "SIO 295S",
+        "SIO 295LS"
+      ]
+    },
+    "MCWP 50": {},
+    "MUS 2AK": {},
+    "MUS 32VM": {},
+    "MUS 33A": {
+      "prerequisites": [
+        "MUS 2C"
+      ]
+    },
+    "MUS 101A": {
+      "prerequisites": [
+        "MUS 2C"
+      ]
+    },
+    "MUS 120A": {
+      "prerequisites": [
+        "MUS 1C"
+      ]
+    },
+    "MUS 132R": {},
+    "MUS 137A": {},
+    "MUS 170": {},
+    "MUS 174A": {},
+    "MUS 175": {},
+    "MUS 270D": {
+      "prerequisites": [
+        "MUS 270A"
+      ]
+    },
+    "MUS 271C": {
+      "prerequisites": [
+        "MUS 271B"
+      ]
+    },
+    "MGT 100": {},
+    "MGT 105": {},
+    "MGT 109": {},
+    "MGT 112": {
+      "prerequisites": [
+        "MGT 180",
+        "MGT 181",
+        "MGT 187"
+      ]
+    },
+    "MGT 131A": {},
+    "MGT 132": {
+      "prerequisites": [
+        "MGT 131B"
+      ]
+    },
+    "MGT 135": {
+      "prerequisites": [
+        "MGT 131B"
+      ]
+    },
+    "MGT 137": {},
+    "MGT 151R": {
+      "prerequisites": [
+        "BIEB 100",
+        "MATH 180B",
+        "MATH 181A",
+        "MATH 186",
+        "SIO 187"
+      ]
+    },
+    "MGT 153": {
+      "prerequisites": [
+        "BIEB 100",
+        "MATH 181A",
+        "MATH 186",
+        "SIO 187"
+      ]
+    },
+    "NANO 11": {},
+    "NANO 102": {},
+    "NANO 103": {
+      "prerequisites": [
+        "CHEM 6CH"
+      ]
+    },
+    "NANO 111": {},
+    "NANO 119": {
+      "prerequisites": [
+        "NANO 115L"
+      ]
+    },
+    "NANO 150": {
+      "prerequisites": [
+        "NANO 108"
+      ]
+    },
+    "NANO 159": {},
+    "PHIL 27": {
+      "prerequisites": [
+        "CAT 2",
+        "CAT 2CE",
+        "DOC 2",
+        "MMW 12",
+        "SYN 1",
+        "WARR 11A",
+        "SYN 1R"
+      ]
+    },
+    "PHIL 28": {
+      "prerequisites": [
+        "POLI 27"
+      ]
+    },
+    "PHIL 120": {},
+    "POLI 176": {
+      "prerequisites": [
+        "ECON 5D",
+        "POLI 170A",
+        "POLI 171",
+        "POLI 172"
+      ]
+    },
+    "PSYC 70": {},
+    "PSYC 71": {},
+    "PSYC 114": {},
+    "PSYC 124": {},
+    "PSYC 171": {
+      "prerequisites": [
+        "BILD 12",
+        "PSYC 181GS"
+      ]
+    },
+    "PSYC 189": {
+      "prerequisites": [
+        "PSYC 102"
+      ]
+    },
+    "PSYC 193L": {},
+    "PSYC 194A": {
+      "prerequisites": [
+        "PSYC 110",
+        "PSYC 111A"
+      ]
+    },
+    "PH 101": {
+      "prerequisites": [
+        "FMPH 40"
+      ]
+    },
+    "PH 102": {
+      "prerequisites": [
+        "FMPH 40"
+      ]
+    },
+    "PH 110": {
+      "prerequisites": [
+        "FMPH 40"
+      ]
+    },
+    "PH 120": {
+      "prerequisites": [
+        "FMPH 40"
+      ]
+    },
+    "PH 130": {
+      "prerequisites": [
+        "FMPH 40",
+        "FMPH 101"
+      ]
+    },
+    "PH 157": {
+      "prerequisites": [
+        "FMPH 40"
+      ]
+    },
+    "PH 161": {
+      "prerequisites": [
+        "FMPH 40"
+      ]
+    },
+    "PH 193": {
+      "prerequisites": [
+        "FMPH 40",
+        "PH 45",
+        "FMPH 101",
+        "FMPH 102",
+        "FMPH 110",
+        "FMPH 120"
+      ]
+    },
+    "SIO 100": {},
+    "SIO 101": {},
+    "SIO 103": {
+      "prerequisites": [
+        "MATH 31BH"
+      ]
+    },
+    "SIO 105": {},
+    "SIO 117": {},
+    "SIO 122": {},
+    "SIO 124": {},
+    "SIO 132": {},
+    "SIO 136": {
+      "prerequisites": [
+        "SIO 134"
+      ]
+    },
+    "SIO 147": {},
+    "SIO 167": {},
+    "SIO 170": {
+      "prerequisites": [
+        "CHEM 6AH"
+      ]
+    },
+    "SIO 171": {},
+    "SIO 189": {},
+    "SE 101A": {
+      "prerequisites": [
+        "MATH 31BH",
+        "PHYS 2AR"
+      ]
+    },
+    "SE 101C": {
+      "prerequisites": [
+        "SE 101B",
+        "MAE 130B"
+      ]
+    },
+    "SE 105": {},
+    "SE 125": {},
+    "SE 130A": {
+      "prerequisites": [
+        "SE 110A"
+      ]
+    },
+    "SE 131B": {
+      "prerequisites": [
+        "SE 131A",
+        "SE 131",
+        "MAE 130C",
+        "SE 130B"
+      ]
+    },
+    "SE 142": {
+      "prerequisites": [
+        "SE 110A",
+        "SE 110B"
+      ]
+    },
+    "SE 163": {
+      "prerequisites": [
+        "SE 110A"
+      ]
+    },
+    "SE 180": {
+      "prerequisites": [
+        "SE 110A"
+      ]
+    },
+    "SE 181": {
+      "prerequisites": [
+        "SE 110A"
+      ]
+    },
+    "SE 212": {
+      "prerequisites": [
+        "SE 150A"
+      ]
+    },
+    "SE 220": {
+      "prerequisites": [
+        "SE 221"
+      ]
+    },
+    "SE 223": {
+      "prerequisites": [
+        "SE 211",
+        "SE 201B"
+      ]
+    },
+    "SE 271": {
+      "prerequisites": [
+        "SE 110A"
+      ]
+    },
+    "SE 285": {},
+    "SYN 2": {
+      "prerequisites": [
+        "SYN 1"
+      ]
+    },
+    "SYN 2R": {
+      "prerequisites": [
+        "SYN 1"
+      ]
+    },
+    "SYN 100": {
+      "prerequisites": [
+        "SYN 1"
+      ]
+    },
+    "SYN 150": {},
+    "SYN 150R": {},
+    "USP 151": {},
+    "USP 152B": {
+      "prerequisites": [
+        "USP 152",
+        "USP 152A"
+      ]
+    },
+    "USP 185A": {
+      "prerequisites": [
+        "USP 152"
+      ]
+    },
+    "USP 186": {
+      "prerequisites": [
+        "USP 30"
+      ]
+    },
+    "USP 191A": {},
+    "VIS 100A": {},
+    "VIS 105A": {},
+    "VIS 105B": {},
+    "VIS 105C": {},
+    "VIS 106A": {},
+    "VIS 106B": {},
+    "VIS 107A": {},
+    "VIS 107C": {
+      "prerequisites": [
+        "VIS 107B"
+      ]
+    },
+    "VIS 113CN": {
+      "recommended": [
+        "VIS 112"
+      ]
+    },
+    "VIS 120A": {},
+    "VIS 121C": {
+      "recommended": [
+        "VIS 112"
+      ]
+    },
+    "VIS 128C": {
+      "prerequisites": [
+        "VIS 113AN"
+      ]
+    },
+    "VIS 129A": {
+      "prerequisites": [
+        "VIS 112"
+      ]
+    },
+    "VIS 133A": {},
+    "VIS 141A": {
+      "prerequisites": [
+        "CSE 8B"
+      ]
+    },
+    "VIS 143": {},
+    "VIS 145B": {
+      "prerequisites": [
+        "VIS 145A",
+        "ICAM 102"
+      ]
+    },
+    "VIS 146B": {
+      "prerequisites": [
+        "VIS 146A"
+      ]
+    },
+    "VIS 147A": {},
+    "VIS 147B": {},
+    "VIS 149": {
+      "prerequisites": [
+        "VIS 145A",
+        "MUS 171"
+      ]
+    },
+    "VIS 162": {
+      "prerequisites": [
+        "VIS 135"
+      ]
+    },
+    "VIS 163": {},
+    "VIS 164": {},
+    "VIS 165A": {},
+    "VIS 167": {
+      "prerequisites": [
+        "VIS 165"
+      ]
+    },
+    "VIS 171": {},
+    "VIS 174": {},
+    "VIS 175": {},
+    "VIS 179": {},
+    "VIS 180A": {},
+    "VIS 180B": {},
+    "VIS 183B": {}
+  },
+  "stats": {
+    "total_prerequisites": 1296,
+    "valid_prerequisites": 939,
+    "invalid_prerequisites": 357,
+    "validation_rate": 0.7245370370370371
+  }
+}
