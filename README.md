@@ -122,7 +122,7 @@ similar = api.find_similar_courses("CSE 158")
 - **Smart Filtering**: Only recommends eligible courses based on prerequisites
 - **Learning Paths**: Prerequisite-aware course sequences
 - **Cross-Department Discovery**: Find related courses across all departments
-- **Netflix-Style Similarity**: "Students who took X also enjoyed..."
+- **Course Similarity Recommendations**: "Students who took X also enjoyed..."
 
 ### Performance
 - 2,003 courses with semantic embeddings
